@@ -18,6 +18,11 @@
       "path": "lang/en.json"
     },
     {
+      "lang": "ko",
+      "name": "Korean",
+      "path": "lang/ko.json"
+    },
+    {
       "lang": "fr",
       "name": "French",
       "path": "lang/fr.json"
